@@ -1,4 +1,4 @@
 # RebornRecDecomp
-this will be a compilable decomp of rebornrec v5.2.0 build
+This will be a compilable decomp of RebornRec v5.2.0 build.
 
-rebornrec server build 5.0.0 onwords is c++
+RebornRec server build 5.0.0 onwards is C++..
