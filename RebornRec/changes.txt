@@ -1,0 +1,3 @@
+﻿The namespace now started with RebornRec,
+Some cs file wll be here but won't work as intended like the discord game sdk and the build downloader and build mod loader
+the code may be not the same
